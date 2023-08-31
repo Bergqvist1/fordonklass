@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\fordonklass\bin\Debug\net7.0\fordonklass.exe
+C:\Users\Admin\Documents\GitHub\fordonklass\bin\Debug\net7.0\fordonklass.deps.json
+C:\Users\Admin\Documents\GitHub\fordonklass\bin\Debug\net7.0\fordonklass.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\fordonklass\bin\Debug\net7.0\fordonklass.dll
+C:\Users\Admin\Documents\GitHub\fordonklass\bin\Debug\net7.0\fordonklass.pdb
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.dll
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\refint\fordonklass.dll
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.pdb
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\fordonklass.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\fordonklass\obj\Debug\net7.0\ref\fordonklass.dll
